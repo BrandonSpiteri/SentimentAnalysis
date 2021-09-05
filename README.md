@@ -25,7 +25,7 @@ The following features are extracted:
 3. Long-Short Term Memory (LSTM) Classifier
 
 ## Results
-| Model  | F1-Score | F1-Score | F1-Score |
+| Naive Bayes	  | 0.565    | 0.593	| 0.567 | 
 |   | Test Set 1 | Test Set 2 | Test Set 3 |
 | ------------- | ------------- | ------------- | ------------- |
 | Naive Bayes	  | 0.565    | 0.593	| 0.567 | 
