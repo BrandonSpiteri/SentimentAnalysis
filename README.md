@@ -24,5 +24,11 @@ The following features are extracted:
 2. Maximum Entropy Classifier (Logistic Regression)
 3. Long-Short Term Memory (LSTM) Classifier
 
-
+## Results
+| Model  | F1-Score |
+|   | Test Set 1 | Test Set 2 | Test Set 3 |
+| ------------- | ------------- | ------------- | ------------- |
+| Naive Bayes	  | 0.565    | 0.593	| 0.567 | 
+| Maximum Entropy	| 0.571  	| 0.597	| 0.551 |
+| LSTM	| 0.614  	| 0.641	| 0.578 |
 
